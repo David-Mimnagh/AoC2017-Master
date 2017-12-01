@@ -1,0 +1,6 @@
+C:\Users\David Mimnagh\Desktop\Folders\Projects\Personal\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe.config
+C:\Users\David Mimnagh\Desktop\Folders\Projects\Personal\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csprojResolveAssemblyReference.cache
+C:\Users\David Mimnagh\Desktop\Folders\Projects\Personal\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe
+C:\Users\David Mimnagh\Desktop\Folders\Projects\Personal\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.pdb
+C:\Users\David Mimnagh\Desktop\Folders\Projects\Personal\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.exe
+C:\Users\David Mimnagh\Desktop\Folders\Projects\Personal\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.pdb
