@@ -9,8 +9,6 @@ namespace AdventOfCode.Levels
 {
     public class Level2
     {
-        public int Highest { get; set; }
-        public int Lowest { get; set; }
         public int DiffTotal { get; set; }
 
         public string Part1(string input)
@@ -79,8 +77,6 @@ namespace AdventOfCode.Levels
 
         public string MainMethod(string inputString)
         {
-            Highest = 0;
-            Lowest = 10;
             DiffTotal = 0;
 
             //return "The answer to this level is: " + Part1(inputString);
