@@ -4,3 +4,9 @@ C:\Users\David Mimnagh\Desktop\Folders\Projects\Personal\AdventOfCode\AdventOfCo
 C:\Users\David Mimnagh\Desktop\Folders\Projects\Personal\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.pdb
 C:\Users\David Mimnagh\Desktop\Folders\Projects\Personal\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.exe
 C:\Users\David Mimnagh\Desktop\Folders\Projects\Personal\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.pdb
+C:\Users\User\Documents\GitHub\AoC2017-Master\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe.config
+C:\Users\User\Documents\GitHub\AoC2017-Master\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.exe
+C:\Users\User\Documents\GitHub\AoC2017-Master\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.pdb
+C:\Users\User\Documents\GitHub\AoC2017-Master\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe
+C:\Users\User\Documents\GitHub\AoC2017-Master\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.pdb
+C:\Users\User\Documents\GitHub\AoC2017-Master\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csprojResolveAssemblyReference.cache
