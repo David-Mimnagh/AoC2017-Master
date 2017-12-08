@@ -15,6 +15,7 @@ namespace AdventOfCode
         public static Level1 l1;
         public static Level2 l2;
         public static Level3 l3;
+        public static Level4 l4;
         static string GetPuzzleInput()
         {
             return File.ReadAllText("..\\..\\Files\\level_"+LEVELNUMBER.ToString() +".txt");
@@ -25,7 +26,9 @@ namespace AdventOfCode
             l1 = new Level1();
             l2 = new Level2();
             l3 = new Level3();
-            LEVELNUMBER = 3;
+            l4 = new Level4();
+
+            LEVELNUMBER = 4;
             switch(LEVELNUMBER)
             {
                 case 1:
@@ -35,7 +38,10 @@ namespace AdventOfCode
                     Console.WriteLine(l2.MainMethod(GetPuzzleInput()));
                     break;
                 case 3:
-                    Console.WriteLine(l3.MainMethod(368708));
+                    Console.WriteLine(l3.MainMethod(368078));
+                    break;
+                case 4:
+                    Console.WriteLine(l4.MainMethod(GetPuzzleInput()));
                     break;
             }
             Console.ReadLine();
